@@ -14,18 +14,12 @@ Here i want to give you some information about the technologies, frameworks and 
 ### CSS Frameworks
 ***
 - [Bootstrap](http://getbootstrap.com/) - HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-- [Semantic UI](http://semantic-ui.com/)
 ***
 ### JavaScript Frameworks
 ***
 - [jQuery](http://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library.
     - [jQuery UI](http://jqueryui.com/)
     - [jQuery Mobile](http://jquerymobile.com/) - A Touch-Optimized Web Framework.
-
-### Design Tools
-
-- [User Interface Design Tools](http://www.tripwiremagazine.com/2012/03/user-interface-design-tools.html)
-- [Graphic Design Tools](http://www.creativebloq.com/graphic-design/underrated-tools-graphic-designers-12121495)
 ***
 # Back End
 ***
