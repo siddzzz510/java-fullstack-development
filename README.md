@@ -491,7 +491,7 @@ Here i want to give you some information about the technologies, frameworks and 
 ***
 ## License
 ***
-- [MIT](https://github.com/vaibhavpacharya/Full-Stack-Web-Development/blob/master/LICENSE)
+- [MIT](https://github.com/siddzzz510/java-fullstack-development?tab=MIT-1-ov-file#)
 ***
 ## Contribute
 ***
